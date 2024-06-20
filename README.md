@@ -24,10 +24,6 @@ Check out the live demo [here](https://shivam171.github.io/tvflix/)!
 
 - **Bug Fixes**: Addressing issues, including the trailer for movies not loading from YouTube. Stay tuned for updates!
 
-## Contributor 🙌
-
-This project was inspired by the work of [codewithsadee](https://www.youtube.com/codewithsadee), who created a tutorial on YouTube. I took reference from the tutorial and built upon it to create Tvflix.
-
 ## How to Contribute 🤝
 
 Contributions are welcome! If you encounter any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
